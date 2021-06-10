@@ -17,7 +17,13 @@ nav {
 }
 
 .h1-1 {
+    color: wheat;
+}
+
+.h1-2 {
     color: burlywood;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 img {
