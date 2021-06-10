@@ -9,17 +9,16 @@ nav {
 }
 
 .img {
-    text-align: center;
-    
+    text-align: center;  
     background-image: url(../image/62857061-different-food-on-a-wooden-table-grilled-vegetables-baked-potatoes-french-fries-and-grilled-mushroom.jpg);
     background-size: cover;
+    background-attachment: fixed;
     height: 850px;
 }
 
 .h1-1 {
     color: burlywood;
 }
-
 
 img {
     margin-top: 50px;
