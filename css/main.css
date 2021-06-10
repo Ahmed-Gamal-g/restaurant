@@ -40,11 +40,12 @@ h1 {
     padding-top: 30px;
 }
 .b1 {
-   margin-right: 20px;
+   margin-right: 50px;
    margin-top: 20px;
    padding: 10px; 
    background-color: burlywood;
    border-radius: 20%;
+   box-shadow: 10px 5px 10px black;
 }
 
 .b1:hover {
@@ -55,11 +56,11 @@ h1 {
  }
 
 .b2 {
-   margin-left: 20px; 
+   margin-left: 50px; 
    margin-top: 20px;
    padding: 10px; 
    border-radius: 20%;
-
+   box-shadow: 5px 5px 10px black;
 }
 
 .b2:hover {
