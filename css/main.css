@@ -1,0 +1,214 @@
+nav {
+    background-color: black;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+    color: red;
+    border-radius: 20%;
+    background-color: burlywood;
+}
+
+.img {
+    text-align: center;
+    
+    background-image: url(../image/62857061-different-food-on-a-wooden-table-grilled-vegetables-baked-potatoes-french-fries-and-grilled-mushroom.jpg);
+    background-size: cover;
+    height: 850px;
+}
+
+img {
+    margin-top: 50px;
+}
+
+@media (max-width:720px) {
+
+    .img3 {
+        width: 300px;
+    }
+    
+
+}
+
+@media (max-width:720px) {
+    .logo {
+        width: 350px;
+    }
+}
+
+
+h1 {
+    padding-top: 30px;
+}
+.b1 {
+   margin-right: 20px;
+   margin-top: 20px;
+   padding: 10px; 
+   background-color: burlywood;
+   border-radius: 20%;
+}
+
+.b1:hover {
+
+    background-color: white;
+    color: rgb(197, 114, 6);
+
+ }
+
+.b2 {
+   margin-left: 20px; 
+   margin-top: 20px;
+   padding: 10px; 
+   border-radius: 20%;
+
+}
+
+.b2:hover {
+
+    background-color: burlywood;
+
+ }
+
+h2 {
+    padding-top: 50px;
+    font-family: inherit;
+    font-weight: bolder;
+}
+h4 {
+    padding-top: 30px;
+    color: burlywood;
+}
+
+p {
+    font-size: 20px;
+}
+
+i {
+    font-size: 40px;
+    border-radius: 50%;
+    border: 1px solid white;
+    background-color: burlywood;
+    color: white;
+    padding: 10px;
+    margin-top: 5px;
+    
+}
+
+span {
+    margin-left: 20px;
+}
+
+#one {
+    margin-top: 70px;
+
+}
+
+/* end section 1 */
+
+.like {
+    font-size: 100px;
+}
+
+.img4 {
+    margin-left: 30px;
+}
+
+@media (max-width:720px) {
+    .img4 {
+        width: 300px;
+        height: 300px;
+        margin: auto;
+        margin-left: 15px;
+    }
+
+}
+
+#two {
+    margin-top: 70px;
+}
+
+
+/* end section two */
+
+
+.b-g {
+    background-image: url(../image/image.png);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    margin-top: 100px;
+}
+
+.h1 {
+    text-align: center;
+    padding-top: 250px;
+    color: burlywood;
+}
+
+.nos-saf7a {
+    text-align: center;
+    margin-top: 50px;
+   
+}
+
+h3 {
+    padding-top: 20px;
+    color: burlywood;
+}
+
+.text {
+    text-align: center;
+}
+
+/* end section three */
+
+.on-bg {
+    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)) , url(../image/4-Taureaux-Spread.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    text-align: center;
+    padding-top: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.txt-bg {
+    color: white;
+}
+
+.gbs {
+    border-radius: 20%;
+    border: 2px solid white;
+    box-shadow: 10px 10px 10px burlywood;
+    transition: all 1s;
+    margin-left: 20px;
+}
+
+.gbs:hover {
+    transform: scale(1.1,1.1);
+}
+
+/* end section four */
+
+footer {
+    background-color: black;
+    color: burlywood;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+
+.aa {
+    color: brown;
+    margin-top: 20px;
+}
+
+@media (max-width:720px) {
+
+    .gbs {
+        margin-bottom: 20px;
+    }
+    
+    
+}
+
