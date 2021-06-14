@@ -1,3 +1,4 @@
+
 nav {
     background-color: rgba(0, 0, 0, 0.473);
 }
@@ -10,10 +11,15 @@ nav {
 
 .img {
     text-align: center;  
-    background-image: url(../image/62857061-different-food-on-a-wooden-table-grilled-vegetables-baked-potatoes-french-fries-and-grilled-mushroom.jpg);
+    background-image: linear-gradient(rgb(0 0 0 / 36%),rgb(0 0 0 / 37%)) , url(../image/62857061-different-food-on-a-wooden-table-grilled-vegetables-baked-potatoes-french-fries-and-grilled-mushroom.jpg);
     background-size: cover;
+    background-color:;
     background-attachment: fixed;
     height: 900px;
+}
+
+.layout {
+    background-color: black;
 }
 
 .h1-1 {
