@@ -123,6 +123,15 @@ span {
 
 .img4 {
     margin-left: 30px;
+    box-shadow: 7px 7px 5px #000000fb; 
+    box-shadow: 7px -7px -5px black;
+    border-radius: 20%;
+    transition: all 2s;
+}
+
+.img4:hover{
+    transform: scale(1.1,1.1);
+    box-shadow: 7px 7px 3px #e2e2e2fb;
 }
 
 @media (max-width:720px) {
@@ -161,6 +170,42 @@ span {
     text-align: center;
     margin-top: 50px;
    
+}
+
+.khat {
+    margin: auto;
+    margin-top: 20px;
+    width: 300px;
+    height: 5px;
+    background: linear-gradient(red 10% , black);
+    border-radius: 50%;
+    margin-bottom: 30px;
+    
+}
+
+.spinner-grow {
+    color: #f1c6c6;
+}
+
+.text-danger {
+    margin-top: 50px;
+}
+
+.down {
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.circle {
+    box-shadow: 7px 7px 3px #000000fb;
+    border-radius: 20%;
+    transition: all 2s;
+}
+
+.circle:hover{
+    transform: scale(1.1,1.1);
+    box-shadow: 7px 7px 3px #e2e2e2fb;
 }
 
 h3 {
