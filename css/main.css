@@ -60,10 +60,13 @@ h1 {
    box-shadow: 10px 5px 10px black;
 }
 
+
+
 .b1:hover {
 
     background-color: white;
     color: rgb(197, 114, 6);
+    padding: 20px;
 
  }
 
@@ -78,6 +81,9 @@ h1 {
 .b2:hover {
 
     background-color: burlywood;
+    padding: 20px;
+    color: brown;
+
 
  }
 
